@@ -1,0 +1,46 @@
+[ 2016-04-16T20:20:08+08:00 ] ::1 /yuanxing1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.103247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.103562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001553s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003775s ]
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' E:\ruanjian\wamp\www\yuanxing1.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' E:\ruanjian\wamp\www\yuanxing1.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Division by zero E:\ruanjian\wamp\www\yuanxing1.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.606927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.607255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.108861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.109290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.051984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.052446s ]
+
+[ 2016-04-16T20:20:21+08:00 ] ::1 /yuanxing1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' E:\ruanjian\wamp\www\yuanxing1.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' E:\ruanjian\wamp\www\yuanxing1.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Division by zero E:\ruanjian\wamp\www\yuanxing1.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001861s ]
+
